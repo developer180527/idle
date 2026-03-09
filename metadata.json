@@ -1,0 +1,5 @@
+{
+  "name": "PyPad AI",
+  "description": "A lightweight, browser-based Python IDE for teaching and experimentation, featuring a virtual file system, client-side execution via Pyodide, and an AI teaching assistant.",
+  "requestFramePermissions": []
+}
